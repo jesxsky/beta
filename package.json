@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jesxsky/beta.git"
+    "url": "git+https://github.com/affisjunianto/botwasap.git"
   },
   "keywords": [
     "k"
@@ -37,7 +37,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jesxsky/betaissues"
+    "url": "https://github.com/affisjunianto/botwasapissues"
   },
-  "homepage": "https://github.com/jesxsky/beta#readme"
+  "homepage": "https://github.com/affisjunianto/botwasap#readme"
 }
